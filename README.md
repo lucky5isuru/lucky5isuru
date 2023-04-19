@@ -14,7 +14,7 @@
  Trust me! I'm skiddie 😜
 </p>
 
-# Community ❤️
+# ❤️
 </p>
 <p align="center">
 <a href="https://instagram.com/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
