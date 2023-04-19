@@ -14,14 +14,14 @@
  Trust me! I'm skiddie 😜
 </p>
 
-# ❤️
+# Social ❤️
 </p>
 <p align="center">
 <a href="https://instagram.com/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </p>
 
-## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
+## 𝗚𝗜𝗧𝗛𝗨𝗕 💜
 [![Stats](https://github-readme-stats.vercel.app/api?username=lucky5isuru&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/lucky5isuru/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky5isuru&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight" align="center">
