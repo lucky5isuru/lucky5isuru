@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**lucky5isuru/lucky5isuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<p align="center">
+  <a href="https://github.com/lucky5isurureadme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Shyzu The Skiddie...&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=UI%2FUX%20Designer;Always%20I'm%20skiddie;Always%20learning%20new%20things;%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ Trust me! I'm skiddie 😜
+</p>
+
+# Community ❤️
+</p>
+<p align="center">
+<a href="https://instagram.com/"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+</p>
+
+## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
+[![Stats](https://github-readme-stats.vercel.app/api?username=lucky5isuru&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/lucky5isuru/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucky5isuru&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight" align="center">
+
+
+## Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{lucky5isuru}/count.svg)
+
+
