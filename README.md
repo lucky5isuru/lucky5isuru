@@ -15,6 +15,10 @@
 </p>
 
 
+## 📊 Stats
+<img src="https://raw.githubusercontent.com/lucky5isuru/lucky5isuru/main/github-metrics.svg" alt="Metrics">
+
+
 
 
 
