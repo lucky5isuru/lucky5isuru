@@ -15,7 +15,9 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight" align="center">
+<div style="text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight">
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/{lucky5isuru}/count.svg)
 
