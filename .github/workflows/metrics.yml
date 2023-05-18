@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: lucky5isuru
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
           plugin_achievements: yes
