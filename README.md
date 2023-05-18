@@ -15,12 +15,8 @@
 </p>
 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lucky5isuru&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight" align="center">
 
-
-## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{lucky5isuru}/count.svg)
 
 
