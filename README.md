@@ -15,12 +15,7 @@
 </p>
 
 
-## 📊 Stats
-<img src="https://raw.githubusercontent.com/AnjanaMadu/AnjanaMadu/main/github-metrics.svg" alt="Metrics">
 
-
-
-    ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 
 
