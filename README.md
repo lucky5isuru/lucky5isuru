@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/lucky5isuru/lucky5isuru/main/github-metrics.svg" alt="Metrics">
 
 
-<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
+[<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 
 
