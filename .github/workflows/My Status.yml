@@ -14,9 +14,9 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          
-           # Options
-          user: lucky5isuru
+
+          # Options
+          user: shyzu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
@@ -33,7 +33,3 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers
-          
-          
-          
-           
