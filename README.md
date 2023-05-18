@@ -19,8 +19,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight">
 </p>
 
-<p align="center">
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{lucky5isuru}/count.svg)
-</p>
+</div>
 
 
