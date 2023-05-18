@@ -10,10 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=UI%2FUX%20Designer;Always%20I'm%20skiddie;Always%20learning%20new%20things;%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="center">
- Trust me! I'm skiddie 😜
-</p>
-
 
 ## 📊 Stats
 <img src="https://raw.githubusercontent.com/lucky5isuru/lucky5isuru/main/github-metrics.svg" alt="Metrics">
