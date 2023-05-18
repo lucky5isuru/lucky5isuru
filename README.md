@@ -8,6 +8,8 @@
 [<img align="right" width="390" alt="🦑" src="https://telegra.ph/file/7898b947cc6966a630ef6.png?p">](#)
 [<img width="390" height="100" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://telegra.ph/file/6cbb4999ecaf73d5aa20f.png?p">](#)
+[<img width="390" height="100" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://telegra.ph/file/6308985fd36cfb4ac78b3.png?p">](#)
 
 
 
