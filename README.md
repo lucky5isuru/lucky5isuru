@@ -16,8 +16,6 @@
 
 
 
-## 𝗚𝗜𝗧𝗛𝗨𝗕 💜
-[![Stats](https://github-readme-stats.vercel.app/api?username=lucky5isuru&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/lucky5isuru/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky5isuru&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight" align="center">
 
