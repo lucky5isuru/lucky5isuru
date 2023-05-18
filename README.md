@@ -11,8 +11,7 @@
 </p>
 
 
-## 📊 Stats
-<img src="https://raw.githubusercontent.com/lucky5isuru/lucky5isuru/main/github-metrics.svg" alt="Metrics">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 
 [<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
