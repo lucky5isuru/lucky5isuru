@@ -15,9 +15,8 @@
 </p>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky5isuru&layout=compact&theme=tokyonight">
-</p>
+## 📊 Stats
+<img src="https://raw.githubusercontent.com/AnjanaMadu/AnjanaMadu/main/github-metrics.svg" alt="Metrics">
 
 
 
