@@ -20,9 +20,8 @@
 </p>
 
 
-<div align="center">
+
     ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-</div>
 
 
 
