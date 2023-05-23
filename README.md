@@ -10,7 +10,7 @@
 [<img align="right" width="390" alt="🦑" src="https://telegra.ph/file/6cbb4999ecaf73d5aa20f.png?p">](#)
 [<img width="390" height="100" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<div class="row" align="right">
+<div class="row" align="center">
 
 ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
 
