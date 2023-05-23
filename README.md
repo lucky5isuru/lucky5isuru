@@ -12,7 +12,7 @@
 
 <div class="row" align="center">
 
-![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucky5isuru/lucky5isuru/blob/main/github-contribution-grid-snake.svg)
 
 </div>
 
